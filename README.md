@@ -23,7 +23,7 @@ If you need to stop the cron job first identify the PID with `top -p $(pgrep -d'
 
 ##Examples
 Time: 
-![alt text](https://goo.gl/photos/4gy7M7ryLo1Xirc57 "time")
+![alt text](https://lh3.googleusercontent.com/K7uVjOE9c_CRsIHhj6qMEHtCSWiL7OfyYwpzFtkOucrII_MvVIecGtlqZoNFx6ZfS5Wlcd_RxakuMluKmNpmEr_3FgHjwyFxXQliI5gfMvcpjUwNgNgndxx4w1Zwmwc-WDU5M-1EGHdZzxvwPmJ4JPFSIQ6RSPfIyVTqCpvBPLnazyQGLsG2vw2sa7csRAT2aX8glP2gZKhUesxu_Tkl7SZNHEhsQSnvZvj2cgVzv7o2IPyc90VTZU5w2IYFTDin44gfX5-0lLlHfivsy_r59k-Xqeq_Gi9LCTvmZNLjVrq5wWP5ZBP-SyjC2fQoDkR9xpS-O9RtfYPmM4Fy3S_mrIkhSpdfYBaDw0tbckcF2lNk0Xu_CDx7MCCPVq38M3iBSYO0W-VyMmBy8zHtvlBgc9i2WSkD1wqmFjqqNk_oHJgzgRxQxaBCGnQwQlVTSOQ-iSW4VXjmF7o7nGONiMqmPxpV6KfzmQsWfvKd9-yCNlI7xM87HhOyA3L57_WZIHScqvdwM9h89yZs7EtrvKLTCXEPL3v7NLKXImamq9cTPTY9VN6PXG1UyCEJoipnZvkOVgkPFhLbMmqXfuIqUifhwZJXNxik-0p7JreYsv62NWA7b7xXEA=w1920-h603-no "time")
 Date:
 _coming soon..._
 
