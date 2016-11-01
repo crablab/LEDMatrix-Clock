@@ -19,4 +19,12 @@ If you want to keep the script running for any legnth of time it is recommended 
 In order to create a cron job run `sudo crontab -e` - a sample crontab is provided:
 `@reboot cd /home/pi/led-matrix/; bash time.sh` - note, you must be in the same directory as the bash script (and thus the library) when the script is executed. 
 
+If you need to stop the cron job first identify the PID with `top -p $(pgrep -d',' bash)` (it will generally be the one using most system resources and/or running the longest) then `kill xxxx` where xxxx is replaced with the PID. If it doesn't work, try another of the PID's listed! 
+
+##Examples
+Time: 
+![alt text](https://goo.gl/photos/4gy7M7ryLo1Xirc57 "time")
+Date:
+_coming soon..._
+
 Feel free to add any issues and comments - I will do my best to help. 
